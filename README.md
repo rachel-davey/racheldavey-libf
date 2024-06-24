@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @racheldavey-libf
 - 👀 I’m interested in Computer Science and music!
 - 🌱 I’m currently learning Computer Architectre & Python!
-- 💞️ I’m looking to collaborate on any python project!
 - 📫 How to reach me
 - rachel.davey@libfstudy.ac.uk
 - 😄 Pronouns: She/Her
